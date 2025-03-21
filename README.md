@@ -16,14 +16,13 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Overview
 
 ### Screenshot
-
-![mobile](./screenshot.jpg)
-![desktop](./screenshot.jpg)
+![recipe-page-mobile](https://github.com/user-attachments/assets/ba10fb83-88cd-4585-a86c-79ff9e1b165f)
+![recipe-page-desktop](https://github.com/user-attachments/assets/db934db3-539f-48d5-8277-f988754247c1)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [solution URL here](https://www.frontendmentor.io/solutions/recipe-page-Aps863_UPy)
+- [ive site URL here](https://recipe-page-rouge-sigma.vercel.app/)
 
 ## My process
 
